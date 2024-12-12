@@ -1,46 +1,10 @@
 [
     {
-        "name": "Red",
-        "hex": "#FE2727"
-    },
-    {
         "name": "Blue",
-        "hex": "#4756DD"
+        "hex": "#2750ad"
     },
     {
-        "name": "Yellow",
-        "hex": "#FDDD26"
-    },
-    {
-        "name": "Green",
-        "hex": "#17D62B"
-    },
-    {
-        "name": "Pink",
-        "hex": "#FD24C6"
-    },
-    {
-        "name": "Purple",
-        "hex": "#B524FD"
-    },
-    {
-        "name": "Orange",
-        "hex": "#FE8811"
-    },
-    {
-        "name": "Cyan",
-        "hex": "#24FDDF"
-    },
-    {
-        "name": "Grey",
-        "hex": "#939292"
-    },
-    {
-        "name": "Black",
-        "hex": "#000000"
-    },
-    {
-        "name": "White",
-        "hex": "#FFFFFF"
+        "name": "Teal",
+        "hex": "#487b98"
     }
 ]
