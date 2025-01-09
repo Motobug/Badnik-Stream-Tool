@@ -48,10 +48,10 @@ body {
 .mask {
     position: absolute;
     -webkit-mask-image: url("../Overlay/Scoreboard/Icon Mask.png");
-    width: 401px;
-    height: 104px;
-	left: -125px;
-    top: -84px;
+    width: 403px;
+    height: 396px;
+	left: -103px;
+    top: 88px;
 }
 
 
@@ -67,12 +67,12 @@ body {
 
 /* size and position of the character image itself inside the mask */
 .pCharacter {
-    width: 100px;
-    height: 100px;
+    width: 220px;
+    height: 220px;
     object-fit: scale-down;
     position: absolute;
-    left: 252px;
-    top: 4px;
+    left: 92px;
+    top: 80px;
 }
 
 
@@ -158,8 +158,8 @@ body {
     align-items: center;
     width: 54px;
     height: 64px;
-    top: 463px;
-    left: 182px;
+    top: -80px;
+    left: 195px;
     color: white;
     font-family: "Gotham Bold";
 }
@@ -243,7 +243,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 100%;
-    transform: translate(-805px, 323px);
+    transform: translate(-805px, 289px);
 }
 #roundBorder {
     display: flex;
@@ -273,7 +273,7 @@ body {
 
 /* Position of the caster object onscreen */
 #casters {
-    bottom: 62.2%;
+    bottom: 65.5%;
     left: 87.7%;
     position: absolute;
     text-align: left;

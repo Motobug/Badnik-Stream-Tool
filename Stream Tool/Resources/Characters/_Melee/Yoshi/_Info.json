@@ -21,9 +21,9 @@
     ],
     "scoreboard": {
         "neutral": {
-            "x": 36,
+            "x": 30,
             "y": 35,
-            "scale": 1.6
+            "scale": 2
         }
     },
     "vsScreen": {

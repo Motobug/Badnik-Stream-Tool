@@ -1,10 +1,10 @@
 {
   "guiWidth": 958,
-  "guiHeight": 424,
+  "guiHeight": 497,
   "allowIntro": false,
-  "melee": false,
+  "melee": true,
   "forceWL": false,
-  "customRound": false,
+  "customRound": true,
   "invertScore": false,
   "scoreAutoUpdate": false,
   "simpleTexts": false,

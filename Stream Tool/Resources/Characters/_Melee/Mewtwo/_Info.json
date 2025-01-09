@@ -15,9 +15,9 @@
     ],
     "scoreboard": {
         "neutral": {
-            "x": 40,
+            "x": 45,
             "y": 45,
-            "scale": 2
+            "scale": 2.3
         }
     },
     "vsScreen": {
