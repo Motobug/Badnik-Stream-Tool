@@ -1,5 +1,689 @@
 [
   {
+    "name": "Abel",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Jigglypuff",
+        "skin": "Jigglypuff (1)"
+      }
+    ]
+  },
+  {
+    "name": "Ant",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Samus",
+        "skin": "Samus (4)"
+      }
+    ]
+  },
+  {
+    "name": "Arty",
+    "tag": "HoG",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Peach",
+        "skin": "Peach (1)"
+      }
+    ]
+  },
+  {
+    "name": "Bank",
+    "tag": "",
+    "pronouns": "they/she",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Marth",
+        "skin": "Marth (2)"
+      }
+    ]
+  },
+  {
+    "name": "BINGHI",
+    "tag": "HoG",
+    "pronouns": "he/they",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Mr Game & Watch",
+        "skin": "Mr Game & Watch (1)"
+      }
+    ]
+  },
+  {
+    "name": "bonfire10",
+    "tag": "",
+    "pronouns": "she/her",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (4)"
+      }
+    ]
+  },
+  {
+    "name": "Brub",
+    "tag": "",
+    "pronouns": "he/they",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (4)"
+      }
+    ]
+  },
+  {
+    "name": "Dour",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (2)"
+      }
+    ]
+  },
+  {
+    "name": "Dulcetones",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (3)"
+      }
+    ]
+  },
+  {
+    "name": "Eden",
+    "tag": "",
+    "pronouns": "any/all",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Marth",
+        "skin": "Marth (7)"
+      }
+    ]
+  },
+  {
+    "name": "Electroman",
+    "tag": "OUG",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (1)"
+      }
+    ]
+  },
+  {
+    "name": "Ember",
+    "tag": "",
+    "pronouns": "she/her",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (1)"
+      }
+    ]
+  },
+  {
+    "name": "eveningstar",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (4)"
+      }
+    ]
+  },
+  {
+    "name": "Flarp",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Luigi",
+        "skin": "Luigi (4)"
+      }
+    ]
+  },
+  {
+    "name": "Future Shock",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Captain Falcon",
+        "skin": "Captain Falcon (1)"
+      }
+    ]
+  },
+  {
+    "name": "Golden",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Captain Falcon",
+        "skin": "Captain Falcon (2)"
+      }
+    ]
+  },
+  {
+    "name": "Guex",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Yoshi",
+        "skin": "Yoshi (1)"
+      }
+    ]
+  },
+  {
+    "name": "gwm420",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (2)"
+      }
+    ]
+  },
+  {
+    "name": "Hysteric",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Falco",
+        "skin": "Falco (1)"
+      }
+    ]
+  },
+  {
+    "name": "JEC",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (2)"
+      }
+    ]
+  },
+  {
+    "name": "Kaecy",
+    "tag": "",
+    "pronouns": "she/they",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Falco",
+        "skin": "Falco (1)"
+      }
+    ]
+  },
+  {
+    "name": "Kalvar",
+    "tag": "MATE",
+    "pronouns": "he/they",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Marth",
+        "skin": "Marth (4)"
+      }
+    ]
+  },
+  {
+    "name": "KoE",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Ganondorf",
+        "skin": "Ganondorf (7)"
+      }
+    ]
+  },
+  {
+    "name": "kuro",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Ganondorf",
+        "skin": "Ganondorf (5)"
+      }
+    ]
+  },
+  {
+    "name": "meep",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (1)"
+      }
+    ]
+  },
+  {
+    "name": "Motobug",
+    "tag": "",
+    "pronouns": "they/any",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Knuckles",
+        "skin": "Knuckles (19)"
+      },
+      {
+        "character": "Sonic",
+        "skin": "Sonic (13)"
+      }
+    ]
+  },
+  {
+    "name": "nairial",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Pikachu",
+        "skin": "Pikachu (3)"
+      }
+    ]
+  },
+  {
+    "name": "oz",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Captain Falcon",
+        "skin": "Captain Falcon (5)"
+      }
+    ]
+  },
+  {
+    "name": "Primer",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (3)"
+      }
+    ]
+  },
+  {
+    "name": "Project",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (1)"
+      }
+    ]
+  },
+  {
+    "name": "Puunk_",
+    "tag": "",
+    "pronouns": "any/all",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Pikachu",
+        "skin": "Pikachu (17)"
+      }
+    ]
+  },
+  {
+    "name": "Q",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (1)"
+      }
+    ]
+  },
+  {
+    "name": "Rat Rattington",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (2)"
+      }
+    ]
+  },
+  {
+    "name": "RC",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (1)"
+      }
+    ]
+  },
+  {
+    "name": "regEx",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Marth",
+        "skin": "Marth (1)"
+      }
+    ]
+  },
+  {
+    "name": "robi",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Sheik",
+        "skin": "Sheik (2)"
+      }
+    ]
+  },
+  {
+    "name": "RyGuy",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Falco",
+        "skin": "Falco (1)"
+      }
+    ]
+  },
+  {
+    "name": "Seabass",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (4)"
+      }
+    ]
+  },
+  {
+    "name": "Serb",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Ice Climbers",
+        "skin": "Ice Climbers (7)"
+      }
+    ]
+  },
+  {
+    "name": "sfy bees",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Olimar",
+        "skin": "Olimar (17)"
+      }
+    ]
+  },
+  {
     "name": "Test",
     "tag": "One",
     "pronouns": "Pronouns",
@@ -17,6 +701,146 @@
       {
         "character": "Captain Falcon",
         "skin": "Captain Falcon (1)"
+      }
+    ]
+  },
+  {
+    "name": "Thalia",
+    "tag": "",
+    "pronouns": "they/them",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Fox",
+        "skin": "Fox (1)"
+      }
+    ]
+  },
+  {
+    "name": "Tommy",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Jigglypuff",
+        "skin": "Jigglypuff (3)"
+      }
+    ]
+  },
+  {
+    "name": "Trail",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Ganondorf",
+        "skin": "Ganondorf (5)"
+      },
+      {
+        "character": "Ice Climbers",
+        "skin": "Ice Climbers (1)"
+      }
+    ]
+  },
+  {
+    "name": "Veggietales",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Peach",
+        "skin": "Peach (1)"
+      }
+    ]
+  },
+  {
+    "name": "Woodley",
+    "tag": "",
+    "pronouns": "any/all",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Meta Knight",
+        "skin": "Meta Knight (8)"
+      }
+    ]
+  },
+  {
+    "name": "wutang36genders",
+    "tag": "",
+    "pronouns": "she/her",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Ice Climbers",
+        "skin": "Ice Climbers (4)"
+      }
+    ]
+  },
+  {
+    "name": "Yifu",
+    "tag": "",
+    "pronouns": "she/her",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Falco",
+        "skin": "Falco (4)"
+      }
+    ]
+  },
+  {
+    "name": "Younger",
+    "tag": "",
+    "pronouns": "he/him",
+    "state": "",
+    "socials": {
+      "twitter": "",
+      "twitch": "",
+      "yt": ""
+    },
+    "characters": [
+      {
+        "character": "Falco",
+        "skin": "Falco (2)"
       }
     ]
   }
