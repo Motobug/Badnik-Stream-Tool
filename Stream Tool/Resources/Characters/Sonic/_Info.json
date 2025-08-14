@@ -53,11 +53,14 @@
         },
 		{
             "name": "Sonic (18)"
+        },
+        	{
+            "name": "Sonic (19)"
         }
     ],
     "scoreboard": {
         "neutral": {
-            "x": 35,
+            "x": 42,
             "y": 15,
             "scale": 1.5
         }
