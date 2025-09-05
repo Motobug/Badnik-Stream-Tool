@@ -53,7 +53,13 @@
         },
         {
             "name": "Ganondorf (18)"
-        }                
+        }, 
+		{
+            "name": "Ganondorf (19)"
+        },
+		{
+            "name": "Ganondorf (20)"
+        }		
     ],
     "scoreboard": {
         "neutral": {

@@ -44,7 +44,11 @@
         },
         {
             "name": "Marth (15)"
+        },
+		{
+            "name": "Marth (16)"
         }
+		
     ],
     "scoreboard": {
         "neutral": {
